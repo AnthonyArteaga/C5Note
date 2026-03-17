@@ -22,6 +22,19 @@ C5-Note is a full-stack note-taking web app powered by:
  
 - **Account Management** — Forgot username and reset password flows included.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="./notebooks.png" width="400" /><br><b>Notebooks</b></td>
+    <td align="center"><img src="./pages.png" width="400" /><br><b>Pages & Groups</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./documentEditing.png" width="400" /><br><b>Document Editing</b></td>
+    <td align="center"><img src="./publicNotebooks.png" width="400" /><br><b>Public Notebooks</b></td>
+  </tr>
+</table>
+
 ## Requirements
 
 Make sure you have the following installed on your system:
@@ -51,15 +64,4 @@ cd src
 php -S localhost:8000
 ```
 
-## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><img src="./notebooks.png" width="400" /><br><b>Notebooks</b></td>
-    <td align="center"><img src="./pages.png" width="400" /><br><b>Pages & Groups</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./documentEditing.png" width="400" /><br><b>Document Editing</b></td>
-    <td align="center"><img src="./publicNotebooks.png" width="400" /><br><b>Public Notebooks</b></td>
-  </tr>
-</table>
